@@ -92,12 +92,3 @@ Code Alpha/
 └── README.md
 
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/anihere7/CodeAlpha_JavaProgramming.git
-⭐ If you find this repository useful, consider giving it a star!
-
-Made with ☕ Java during my CodeAlpha Internship
