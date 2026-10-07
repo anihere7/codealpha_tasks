@@ -92,62 +92,12 @@ Code Alpha/
 └── README.md
 
 
-🚀 How to Run
+## 🚀 How to Run
 
-1. Clone the repository
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/anihere7/CodeAlpha_JavaProgramming.git
-2. Open the project
-
-Open the downloaded folder in VS Code or any Java-compatible IDE.
-
-3. Select a task
-
-Navigate to the required task folder:
-
-Task 1
-Task 2
-Task 3
-Task 4
-4. Compile and run
-
-Compile the Java file:
-
-javac FileName.java
-
-Then run it:
-
-java FileName
-
-Replace FileName with the actual Java file name.
-
-📸 Project Screenshots
-
-Screenshots and demonstrations of the completed projects can be added here.
-
-📚 What I Learned
-
-This internship helped me gain practical experience in Java development and improved my ability to convert programming concepts into working applications.
-
-It also gave me experience with:
-
-Building Java projects independently
-Object-Oriented Programming
-Debugging Java applications
-File handling
-Managing code using Git
-Maintaining a GitHub repository
-Writing organized and readable code
-👨‍💻 Author
-
-Ani
-
-GitHub:
-https://github.com/anihere7
-
-⭐ Acknowledgement
-
-Thanks to CodeAlpha for providing this internship opportunity and allowing me to gain practical experience through Java-based projects.
-
 ⭐ If you find this repository useful, consider giving it a star!
 
 Made with ☕ Java during my CodeAlpha Internship
